@@ -1,0 +1,2 @@
+En este capítulo he subido la rama Master del repositorio de la práctica 2 llamada 'libro' a mi perfil de GitHub.com, después he creado una rama local desde GitHub desktop y he clonado la rama master para trabajar con ella y modificarla en modo local, para así poder trabajar con ella y después
+Unirla a mi proyecto.
